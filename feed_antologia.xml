@@ -9,7 +9,13 @@
     <itunes:author>Onilde Siqueira Souza Pires</itunes:author>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Society &amp; Culture" />
+    <itunes:image href="https://sociedadedasartes.github.io/audiobooks/capa_antologia.jpg" />
+    <itunes:owner>
+      <itunes:name>Onilde Siqueira Souza Pires</itunes:name>
+      <itunes:email>contato@henriquevieirafilho.com.br</itunes:email>
+    </itunes:owner>
+    <managingEditor>contato@henriquevieirafilho.com.br (Onilde Siqueira Souza Pires)</managingEditor>
+    <itunes:category text="Arts" />
     <item>
       <title>01 SINOPSE</title>
       <description>Faixa '01 SINOPSE' do audiobook Antologia de Contos, Crônicas e Poesias.</description>
@@ -17,7 +23,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/01_SINOPSE.mp3" length="197712" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/01_SINOPSE.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>02 AGRADECIMENTOS</title>
@@ -26,7 +32,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/02_AGRADECIMENTOS.mp3" length="1622592" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/02_AGRADECIMENTOS.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>03 A FIBRA DE UMA MULHER</title>
@@ -35,7 +41,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/03_A_FIBRA_DE_UMA_MULHER.mp3" length="1576944" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/03_A_FIBRA_DE_UMA_MULHER.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>04 A MISERICÓRDIA E A BONDADE DE DEUS</title>
@@ -44,7 +50,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/04_A_MISERICÓRDIA_E_A_BONDADE_DE_DEUS.mp3" length="2027088" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/04_A_MISERICÓRDIA_E_A_BONDADE_DE_DEUS.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>05 A NOIVA DO INFINITO</title>
@@ -53,7 +59,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/05_A_NOIVA_DO_INFINITO.mp3" length="2735280" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/05_A_NOIVA_DO_INFINITO.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>06 AH MARTA MARTA</title>
@@ -62,7 +68,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/06_AH_MARTA_MARTA.mp3" length="2194272" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/06_AH_MARTA_MARTA.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>07 INGENUIDADE E MUITO AMOR</title>
@@ -71,7 +77,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/07_INGENUIDADE_E_MUITO_AMOR.mp3" length="1571184" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/07_INGENUIDADE_E_MUITO_AMOR.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>08 O ANDARILHO</title>
@@ -80,7 +86,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/08_O_ANDARILHO.mp3" length="7625952" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/08_O_ANDARILHO.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>09 O BARCO ÇAÍ</title>
@@ -89,7 +95,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/09_O_BARCO_ÇAÍ.mp3" length="1596384" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/09_O_BARCO_ÇAÍ.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>10 O TEMPO NÃO VOLTA</title>
@@ -98,7 +104,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/10_O_TEMPO_NÃO_VOLTA.mp3" length="3040272" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/10_O_TEMPO_NÃO_VOLTA.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>11 SERIA MEU ANJO DA GUARDA</title>
@@ -107,7 +113,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/11_SERIA_MEU_ANJO_DA_GUARDA.mp3" length="1714464" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/11_SERIA_MEU_ANJO_DA_GUARDA.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>12 A MORTE DE OSAMA BIN LADEN</title>
@@ -116,7 +122,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/12_A_MORTE_DE_OSAMA_BIN_LADEN.mp3" length="869184" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/12_A_MORTE_DE_OSAMA_BIN_LADEN.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>13 DIA INTERNACIONAL DA MULHER</title>
@@ -125,7 +131,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/13_DIA_INTERNACIONAL_DA_MULHER.mp3" length="376704" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/13_DIA_INTERNACIONAL_DA_MULHER.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>14 ETERNAMENTE A PROCURAR</title>
@@ -134,7 +140,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/14_ETERNAMENTE_A_PROCURAR.mp3" length="169200" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/14_ETERNAMENTE_A_PROCURAR.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>15 INCÊNDIO EM SANTOS</title>
@@ -143,7 +149,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/15_INCÊNDIO_EM_SANTOS.mp3" length="950256" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/15_INCÊNDIO_EM_SANTOS.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>16 O PRINCÍPIO DOS PRINCÍPIOS É O RESPEITO</title>
@@ -152,7 +158,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/16_O_PRINCÍPIO_DOS_PRINCÍPIOS_É_O_RESPEITO.mp3" length="410976" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/16_O_PRINCÍPIO_DOS_PRINCÍPIOS_É_O_RESPEITO.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>17 PASSAGEM</title>
@@ -161,7 +167,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/17_PASSAGEM.mp3" length="133776" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/17_PASSAGEM.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>18 TEMPO DO MATA BORRÃO</title>
@@ -170,7 +176,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/18_TEMPO_DO_MATA_BORRÃO.mp3" length="535824" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/18_TEMPO_DO_MATA_BORRÃO.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>19 A MORTE</title>
@@ -179,7 +185,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/19_A_MORTE.mp3" length="140256" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/19_A_MORTE.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>20 APENAS OLHANDO</title>
@@ -188,7 +194,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/20_APENAS_OLHANDO.mp3" length="159840" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/20_APENAS_OLHANDO.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>21 BRASIL MEU BRASIL</title>
@@ -197,7 +203,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/21_BRASIL_MEU_BRASIL.mp3" length="366336" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/21_BRASIL_MEU_BRASIL.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>22 CAMINHANDO PELA VIDA</title>
@@ -206,7 +212,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/22_CAMINHANDO_PELA_VIDA.mp3" length="243936" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/22_CAMINHANDO_PELA_VIDA.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>23 CAMINHAR MUTANTE</title>
@@ -215,7 +221,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/23_CAMINHAR_MUTANTE.mp3" length="131040" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/23_CAMINHAR_MUTANTE.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>24 CANÇÕES DO TEMPO</title>
@@ -224,7 +230,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/24_CANÇÕES_DO_TEMPO.mp3" length="143712" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/24_CANÇÕES_DO_TEMPO.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>25 DISLEXIA</title>
@@ -233,7 +239,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/25_DISLEXIA.mp3" length="126144" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/25_DISLEXIA.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>26 E AGORA MULHER</title>
@@ -242,7 +248,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/26_E_AGORA_MULHER.mp3" length="338976" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/26_E_AGORA_MULHER.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>27 EPITÁFIO</title>
@@ -251,7 +257,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/27_EPITÁFIO.mp3" length="186768" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/27_EPITÁFIO.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>28 EU AMAVA</title>
@@ -260,7 +266,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/28_EU_AMAVA.mp3" length="158256" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/28_EU_AMAVA.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>29 SOLIDÃO</title>
@@ -269,7 +275,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/29_SOLIDÃO.mp3" length="169632" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/29_SOLIDÃO.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>30 TÃO LEVE QUANTO OS PÁSSAROS</title>
@@ -278,7 +284,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/30_TÃO_LEVE_QUANTO_OS_PÁSSAROS.mp3" length="291024" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/30_TÃO_LEVE_QUANTO_OS_PÁSSAROS.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>31 VOCÊ NÃO EXISTE</title>
@@ -287,7 +293,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/31_VOCÊ_NÃO_EXISTE.mp3" length="163008" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/31_VOCÊ_NÃO_EXISTE.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>32 BIOGRAFIA</title>
@@ -296,7 +302,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/antologia/32_BIOGRAFIA.mp3" length="518256" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/antologia/32_BIOGRAFIA.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
   </channel>
 </rss>

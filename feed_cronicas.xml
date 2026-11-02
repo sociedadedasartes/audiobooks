@@ -9,7 +9,13 @@
     <itunes:author>Henrique Vieira Filho</itunes:author>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Society &amp; Culture" />
+    <itunes:image href="https://sociedadedasartes.github.io/audiobooks/capa_cronicas.jpg" />
+    <itunes:owner>
+      <itunes:name>Henrique Vieira Filho</itunes:name>
+      <itunes:email>contato@henriquevieirafilho.com.br</itunes:email>
+    </itunes:owner>
+    <managingEditor>contato@henriquevieirafilho.com.br (Henrique Vieira Filho)</managingEditor>
+    <itunes:category text="Arts" />
     <item>
       <title>01 Sinopse</title>
       <description>Faixa '01 Sinopse' do audiobook 101 Crônicas De Serra Negra - Volume II.</description>
@@ -17,7 +23,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/01_Sinopse.mp3" length="305280" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/01_Sinopse.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>02 Introdução</title>
@@ -26,7 +32,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/02_Introdução.mp3" length="839952" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/02_Introdução.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>03 A Árvore Que Já Sabia</title>
@@ -35,7 +41,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/03_A_Árvore_Que_Já_Sabia.mp3" length="1275264" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/03_A_Árvore_Que_Já_Sabia.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>04 A Noiva a Gaiola e o Clique Perfeito</title>
@@ -44,7 +50,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/04_A_Noiva_a_Gaiola_e_o_Clique_Perfeito.mp3" length="1279872" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/04_A_Noiva_a_Gaiola_e_o_Clique_Perfeito.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>05 A Perna Cabeluda No Cinema</title>
@@ -53,7 +59,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/05_A_Perna_Cabeluda_No_Cinema.mp3" length="1159776" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/05_A_Perna_Cabeluda_No_Cinema.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>06 Além do Olhar e do Dedão na Câmera</title>
@@ -62,7 +68,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/06_Além_do_Olhar_e_do_Dedão_na_Câmera.mp3" length="2109456" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/06_Além_do_Olhar_e_do_Dedão_na_Câmera.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>07 Aposentadoria Interrompida O Transbordo da Arte</title>
@@ -71,7 +77,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/07_Aposentadoria_Interrompida_O_Transbordo_da_Arte.mp3" length="1459872" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/07_Aposentadoria_Interrompida_O_Transbordo_da_Arte.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>08 Arquivistas da Alma Humana</title>
@@ -80,7 +86,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/08_Arquivistas_da_Alma_Humana.mp3" length="1121760" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/08_Arquivistas_da_Alma_Humana.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>09 Assim Nasceu O Turismo</title>
@@ -89,7 +95,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/09_Assim_Nasceu_O_Turismo.mp3" length="1342080" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/09_Assim_Nasceu_O_Turismo.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>10 DNA Literário Café Com Hortelã</title>
@@ -98,7 +104,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/10_DNA_Literário_Café_Com_Hortelã.mp3" length="1276992" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/10_DNA_Literário_Café_Com_Hortelã.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>11 A Constituição Trancada O Dia em que Fui Interrogado na Biblioteca</title>
@@ -107,7 +113,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/11_A_Constituição_Trancada_O_Dia_em_que_Fui_Interrogado_na_Biblioteca.mp3" length="1262592" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/11_A_Constituição_Trancada_O_Dia_em_que_Fui_Interrogado_na_Biblioteca.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>12 Cem Bibliófilos E Uns Segredos</title>
@@ -116,7 +122,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/12_Cem_Bibliófilos_E_Uns_Segredos.mp3" length="1263600" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/12_Cem_Bibliófilos_E_Uns_Segredos.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>13 Divagações de Uma Mente Autista A Inundação de Livros no Natal</title>
@@ -125,7 +131,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/13_Divagações_de_Uma_Mente_Autista_A_Inundação_de_Livros_no_Natal.mp3" length="1256976" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/13_Divagações_de_Uma_Mente_Autista_A_Inundação_de_Livros_no_Natal.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>14 A Fonte o Cinema e o Futuro que Chegou 2026</title>
@@ -134,7 +140,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/14_A_Fonte_o_Cinema_e_o_Futuro_que_Chegou_2026.mp3" length="1124496" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/14_A_Fonte_o_Cinema_e_o_Futuro_que_Chegou_2026.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>15 Quando a Imagem Pede Licença à Palavra</title>
@@ -143,7 +149,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/15_Quando_a_Imagem_Pede_Licença_à_Palavra.mp3" length="1154016" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/15_Quando_a_Imagem_Pede_Licença_à_Palavra.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>16 Lições Para Corações Apressados</title>
@@ -152,7 +158,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/16_Lições_Para_Corações_Apressados.mp3" length="1141920" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/16_Lições_Para_Corações_Apressados.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>17 A Verdade Nua</title>
@@ -161,7 +167,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/17_A_Verdade_Nua.mp3" length="839520" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/17_A_Verdade_Nua.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>18 A Emoção da Arte Uma Verdade que a IA Não Capta</title>
@@ -170,7 +176,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/18_A_Emoção_da_Arte_Uma_Verdade_que_a_IA_Não_Capta.mp3" length="1371168" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/18_A_Emoção_da_Arte_Uma_Verdade_que_a_IA_Não_Capta.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>19 Liberdade Com Rosto Indígena Igualdade Com Pintura Tribal</title>
@@ -179,7 +185,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/19_Liberdade_Com_Rosto_Indígena_Igualdade_Com_Pintura_Tribal.mp3" length="1066608" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/19_Liberdade_Com_Rosto_Indígena_Igualdade_Com_Pintura_Tribal.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>20 Direto aos Finalmentes O Politiquês da Ficção</title>
@@ -188,7 +194,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/20_Direto_aos_Finalmentes_O_Politiquês_da_Ficção.mp3" length="1017648" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/20_Direto_aos_Finalmentes_O_Politiquês_da_Ficção.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>21 Meliantes x Bombeiros Que Vença a Arte</title>
@@ -197,7 +203,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/21_Meliantes_x_Bombeiros_Que_Vença_a_Arte.mp3" length="1376208" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/21_Meliantes_x_Bombeiros_Que_Vença_a_Arte.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>22 Entre Tsurus Sereias e o Riso de Monalisa A Desordem Criativa de um Ponto de Cultura</title>
@@ -206,7 +212,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/22_Entre_Tsurus_Sereias_e_o_Riso_de_Monalisa_A_Desordem_Criativa_de_um_Ponto_de_Cultura.mp3" length="1374480" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/22_Entre_Tsurus_Sereias_e_o_Riso_de_Monalisa_A_Desordem_Criativa_de_um_Ponto_de_Cultura.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>23 Igreja de São Benedito O Tesouro Escondido do Turismo Cultural em Serra Negra</title>
@@ -215,7 +221,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/23_Igreja_de_São_Benedito_O_Tesouro_Escondido_do_Turismo_Cultural_em_Serra_Negra.mp3" length="1707696" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/23_Igreja_de_São_Benedito_O_Tesouro_Escondido_do_Turismo_Cultural_em_Serra_Negra.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>24 Jornadas Encantadas</title>
@@ -224,7 +230,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/24_Jornadas_Encantadas.mp3" length="1295424" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/24_Jornadas_Encantadas.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>25 Livros Odeiam O Silêncio</title>
@@ -233,7 +239,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/25_Livros_Odeiam_O_Silêncio.mp3" length="1812528" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/25_Livros_Odeiam_O_Silêncio.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>26 Maid Café Nobreza Fantasia e um Toque de Loucura em Serra Negra</title>
@@ -242,7 +248,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/26_Maid_Café_Nobreza_Fantasia_e_um_Toque_de_Loucura_em_Serra_Negra.mp3" length="1569168" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/26_Maid_Café_Nobreza_Fantasia_e_um_Toque_de_Loucura_em_Serra_Negra.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>27 Memórias De Um Cientista Arrependido</title>
@@ -251,7 +257,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/27_Memórias_De_Um_Cientista_Arrependido.mp3" length="1249488" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/27_Memórias_De_Um_Cientista_Arrependido.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>28 Nem Tudo Termina em Pizza</title>
@@ -260,7 +266,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/28_Nem_Tudo_Termina_em_Pizza.mp3" length="1493856" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/28_Nem_Tudo_Termina_em_Pizza.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>29 Notas Musicais que Derretem Muralhas</title>
@@ -269,7 +275,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/29_Notas_Musicais_que_Derretem_Muralhas.mp3" length="822672" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/29_Notas_Musicais_que_Derretem_Muralhas.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>30 O Baile das Sombras</title>
@@ -278,7 +284,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/30_O_Baile_das_Sombras.mp3" length="1268208" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/30_O_Baile_das_Sombras.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>31 O Curupira e o Jeitinho Brasileiro</title>
@@ -287,7 +293,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/31_O_Curupira_e_o_Jeitinho_Brasileiro.mp3" length="1387584" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/31_O_Curupira_e_o_Jeitinho_Brasileiro.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>32 O Dia em que Dom João VI e o Correio Conspiraram Contra as Minhas Prateleiras</title>
@@ -296,7 +302,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/32_O_Dia_em_que_Dom_João_VI_e_o_Correio_Conspiraram_Contra_as_Minhas_Prateleiras.mp3" length="1549440" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/32_O_Dia_em_que_Dom_João_VI_e_o_Correio_Conspiraram_Contra_as_Minhas_Prateleiras.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>33 O Doce Inferno do Sucesso Cultural</title>
@@ -305,7 +311,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/33_O_Doce_Inferno_do_Sucesso_Cultural.mp3" length="1188144" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/33_O_Doce_Inferno_do_Sucesso_Cultural.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>34 O Museu Onde o Saci Conversa com a Maria Fumaça</title>
@@ -314,7 +320,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/34_O_Museu_Onde_o_Saci_Conversa_com_a_Maria_Fumaça.mp3" length="1529856" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/34_O_Museu_Onde_o_Saci_Conversa_com_a_Maria_Fumaça.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>35 O Preto Que Virou Ouro</title>
@@ -323,7 +329,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/35_O_Preto_Que_Virou_Ouro.mp3" length="1091232" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/35_O_Preto_Que_Virou_Ouro.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>36 O Riso em Preto e Branco e a Arte no Coração</title>
@@ -332,7 +338,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/36_O_Riso_em_Preto_e_Branco_e_a_Arte_no_Coração.mp3" length="1536768" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/36_O_Riso_em_Preto_e_Branco_e_a_Arte_no_Coração.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>37 Divagações de Uma Mente Autista A Inundação de Livros no Natal</title>
@@ -341,7 +347,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/37_Divagações_de_Uma_Mente_Autista_A_Inundação_de_Livros_no_Natal.mp3" length="1256976" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/37_Divagações_de_Uma_Mente_Autista_A_Inundação_de_Livros_no_Natal.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>38 Funiculì Funiculà no Jaçanã Entre Livros Trens e Saudades</title>
@@ -350,7 +356,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/38_Funiculì_Funiculà_no_Jaçanã_Entre_Livros_Trens_e_Saudades.mp3" length="1254384" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/38_Funiculì_Funiculà_no_Jaçanã_Entre_Livros_Trens_e_Saudades.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>39 Quando a Imagem Pede Licença à Palavra</title>
@@ -359,7 +365,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/39_Quando_a_Imagem_Pede_Licença_à_Palavra.mp3" length="1156176" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/39_Quando_a_Imagem_Pede_Licença_à_Palavra.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>40 O Tempo em que o Cinema Botava Leão na Calçada Literalmente</title>
@@ -368,7 +374,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/40_O_Tempo_em_que_o_Cinema_Botava_Leão_na_Calçada_Literalmente.mp3" length="1174608" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/40_O_Tempo_em_que_o_Cinema_Botava_Leão_na_Calçada_Literalmente.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>41 O Timaço da Floresta Entra em Campo</title>
@@ -377,7 +383,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/41_O_Timaço_da_Floresta_Entra_em_Campo.mp3" length="1383840" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/41_O_Timaço_da_Floresta_Entra_em_Campo.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>42 Para Que Serve um Museu</title>
@@ -386,7 +392,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/42_Para_Que_Serve_um_Museu.mp3" length="937296" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/42_Para_Que_Serve_um_Museu.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>43 Para Que Servem Tantos Títulos</title>
@@ -395,7 +401,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/43_Para_Que_Servem_Tantos_Títulos.mp3" length="2072880" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/43_Para_Que_Servem_Tantos_Títulos.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>44 O Dia em que o Patrimônio Desceu do Pedestal</title>
@@ -404,7 +410,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/44_O_Dia_em_que_o_Patrimônio_Desceu_do_Pedestal.mp3" length="1647216" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/44_O_Dia_em_que_o_Patrimônio_Desceu_do_Pedestal.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>45 Rir É Coisa Séria</title>
@@ -413,7 +419,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/45_Rir_É_Coisa_Séria.mp3" length="1499328" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/45_Rir_É_Coisa_Séria.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>46 Sacerdotes do Riso</title>
@@ -422,7 +428,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/46_Sacerdotes_do_Riso.mp3" length="1343232" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/46_Sacerdotes_do_Riso.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>47 São Aldir Blanc e o Milagre do Artista Equilibrista</title>
@@ -431,7 +437,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/47_São_Aldir_Blanc_e_o_Milagre_do_Artista_Equilibrista.mp3" length="1554336" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/47_São_Aldir_Blanc_e_o_Milagre_do_Artista_Equilibrista.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
     <item>
       <title>48 Sobre O Autor</title>
@@ -440,7 +446,7 @@
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://sociedadedasartes.github.io/audiobooks/cronicas/48_Sobre_O_Autor.mp3" length="2193408" type="audio/mpeg" />
       <guid>https://sociedadedasartes.github.io/audiobooks/cronicas/48_Sobre_O_Autor.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:46 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:24:30 GMT</pubDate>
     </item>
   </channel>
 </rss>

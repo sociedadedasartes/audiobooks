@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audiobooks - Henrique Vieira Filho & Onilde Siqueira</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f4f6f8;
+            color: #2c3e50;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+        }
+        h1 {
+            font-size: 1.8rem;
+            border-bottom: 2px solid #eceff1;
+            padding-bottom: 12px;
+            margin-top: 0;
+            color: #1a252f;
+        }
+        h2 {
+            font-size: 1.3rem;
+            margin-top: 30px;
+            color: #34495e;
+        }
+        .player-sticky {
+            position: sticky;
+            top: 10px;
+            background: #1a252f;
+            color: #fff;
+            padding: 18px 20px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            z-index: 1000;
+        }
+        .now-playing {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: #f1c40f;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        audio {
+            width: 100%;
+            outline: none;
+        }
+        ul.playlist {
+            list-style: none;
+            padding: 0;
+            margin: 10px 0 0 0;
+            max-height: 380px;
+            overflow-y: auto;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+        }
+        ul.playlist li {
+            padding: 12px 16px;
+            border-bottom: 1px solid #f0f0f0;
+            cursor: pointer;
+            transition: background 0.2s;
+            font-size: 0.95rem;
+        }
+        ul.playlist li:hover {
+            background-color: #f8f9fa;
+        }
+        ul.playlist li.active {
+            background-color: #e3f2fd;
+            color: #1565c0;
+            font-weight: 600;
+        }
+        ul.playlist li:last-child {
+            border-bottom: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Acervo de Audiobooks</h1>
+
+    <div class="player-sticky">
+        <div class="now-playing" id="now-playing">Clique em uma faixa abaixo para ouvir</div>
+        <audio id="audio-player" controls preload="metadata"></audio>
+    </div>
+
+    <h2>101 Crônicas De Serra Negra - Volume II</h2>
+    <ul class="playlist" id="list-cronicas"></ul>
+
+    <h2>Antologia de Contos, Crônicas e Poesias</h2>
+    <ul class="playlist" id="list-antologia"></ul>
+</div>
+
+<script>
+    const cronicas = [{"title": "01 Sinopse", "file": "cronicas/01_Sinopse.mp3"}, {"title": "02 Introdução", "file": "cronicas/02_Introdução.mp3"}, {"title": "03 A Árvore Que Já Sabia", "file": "cronicas/03_A_Árvore_Que_Já_Sabia.mp3"}, {"title": "04 A Noiva a Gaiola e o Clique Perfeito", "file": "cronicas/04_A_Noiva_a_Gaiola_e_o_Clique_Perfeito.mp3"}, {"title": "05 A Perna Cabeluda No Cinema", "file": "cronicas/05_A_Perna_Cabeluda_No_Cinema.mp3"}, {"title": "06 Além do Olhar e do Dedão na Câmera", "file": "cronicas/06_Além_do_Olhar_e_do_Dedão_na_Câmera.mp3"}, {"title": "07 Aposentadoria Interrompida O Transbordo da Arte", "file": "cronicas/07_Aposentadoria_Interrompida_O_Transbordo_da_Arte.mp3"}, {"title": "08 Arquivistas da Alma Humana", "file": "cronicas/08_Arquivistas_da_Alma_Humana.mp3"}, {"title": "09 Assim Nasceu O Turismo", "file": "cronicas/09_Assim_Nasceu_O_Turismo.mp3"}, {"title": "10 DNA Literário Café Com Hortelã", "file": "cronicas/10_DNA_Literário_Café_Com_Hortelã.mp3"}, {"title": "11 A Constituição Trancada O Dia em que Fui Interrogado na Biblioteca", "file": "cronicas/11_A_Constituição_Trancada_O_Dia_em_que_Fui_Interrogado_na_Biblioteca.mp3"}, {"title": "12 Cem Bibliófilos E Uns Segredos", "file": "cronicas/12_Cem_Bibliófilos_E_Uns_Segredos.mp3"}, {"title": "13 Divagações de Uma Mente Autista A Inundação de Livros no Natal", "file": "cronicas/13_Divagações_de_Uma_Mente_Autista_A_Inundação_de_Livros_no_Natal.mp3"}, {"title": "14 A Fonte o Cinema e o Futuro que Chegou 2026", "file": "cronicas/14_A_Fonte_o_Cinema_e_o_Futuro_que_Chegou_2026.mp3"}, {"title": "15 Quando a Imagem Pede Licença à Palavra", "file": "cronicas/15_Quando_a_Imagem_Pede_Licença_à_Palavra.mp3"}, {"title": "16 Lições Para Corações Apressados", "file": "cronicas/16_Lições_Para_Corações_Apressados.mp3"}, {"title": "17 A Verdade Nua", "file": "cronicas/17_A_Verdade_Nua.mp3"}, {"title": "18 A Emoção da Arte Uma Verdade que a IA Não Capta", "file": "cronicas/18_A_Emoção_da_Arte_Uma_Verdade_que_a_IA_Não_Capta.mp3"}, {"title": "19 Liberdade Com Rosto Indígena Igualdade Com Pintura Tribal", "file": "cronicas/19_Liberdade_Com_Rosto_Indígena_Igualdade_Com_Pintura_Tribal.mp3"}, {"title": "20 Direto aos Finalmentes O Politiquês da Ficção", "file": "cronicas/20_Direto_aos_Finalmentes_O_Politiquês_da_Ficção.mp3"}, {"title": "21 Meliantes x Bombeiros Que Vença a Arte", "file": "cronicas/21_Meliantes_x_Bombeiros_Que_Vença_a_Arte.mp3"}, {"title": "22 Entre Tsurus Sereias e o Riso de Monalisa A Desordem Criativa de um Ponto de Cultura", "file": "cronicas/22_Entre_Tsurus_Sereias_e_o_Riso_de_Monalisa_A_Desordem_Criativa_de_um_Ponto_de_Cultura.mp3"}, {"title": "23 Igreja de São Benedito O Tesouro Escondido do Turismo Cultural em Serra Negra", "file": "cronicas/23_Igreja_de_São_Benedito_O_Tesouro_Escondido_do_Turismo_Cultural_em_Serra_Negra.mp3"}, {"title": "24 Jornadas Encantadas", "file": "cronicas/24_Jornadas_Encantadas.mp3"}, {"title": "25 Livros Odeiam O Silêncio", "file": "cronicas/25_Livros_Odeiam_O_Silêncio.mp3"}, {"title": "26 Maid Café Nobreza Fantasia e um Toque de Loucura em Serra Negra", "file": "cronicas/26_Maid_Café_Nobreza_Fantasia_e_um_Toque_de_Loucura_em_Serra_Negra.mp3"}, {"title": "27 Memórias De Um Cientista Arrependido", "file": "cronicas/27_Memórias_De_Um_Cientista_Arrependido.mp3"}, {"title": "28 Nem Tudo Termina em Pizza", "file": "cronicas/28_Nem_Tudo_Termina_em_Pizza.mp3"}, {"title": "29 Notas Musicais que Derretem Muralhas", "file": "cronicas/29_Notas_Musicais_que_Derretem_Muralhas.mp3"}, {"title": "30 O Baile das Sombras", "file": "cronicas/30_O_Baile_das_Sombras.mp3"}, {"title": "31 O Curupira e o Jeitinho Brasileiro", "file": "cronicas/31_O_Curupira_e_o_Jeitinho_Brasileiro.mp3"}, {"title": "32 O Dia em que Dom João VI e o Correio Conspiraram Contra as Minhas Prateleiras", "file": "cronicas/32_O_Dia_em_que_Dom_João_VI_e_o_Correio_Conspiraram_Contra_as_Minhas_Prateleiras.mp3"}, {"title": "33 O Doce Inferno do Sucesso Cultural", "file": "cronicas/33_O_Doce_Inferno_do_Sucesso_Cultural.mp3"}, {"title": "34 O Museu Onde o Saci Conversa com a Maria Fumaça", "file": "cronicas/34_O_Museu_Onde_o_Saci_Conversa_com_a_Maria_Fumaça.mp3"}, {"title": "35 O Preto Que Virou Ouro", "file": "cronicas/35_O_Preto_Que_Virou_Ouro.mp3"}, {"title": "36 O Riso em Preto e Branco e a Arte no Coração", "file": "cronicas/36_O_Riso_em_Preto_e_Branco_e_a_Arte_no_Coração.mp3"}, {"title": "37 Divagações de Uma Mente Autista A Inundação de Livros no Natal", "file": "cronicas/37_Divagações_de_Uma_Mente_Autista_A_Inundação_de_Livros_no_Natal.mp3"}, {"title": "38 Funiculì Funiculà no Jaçanã Entre Livros Trens e Saudades", "file": "cronicas/38_Funiculì_Funiculà_no_Jaçanã_Entre_Livros_Trens_e_Saudades.mp3"}, {"title": "39 Quando a Imagem Pede Licença à Palavra", "file": "cronicas/39_Quando_a_Imagem_Pede_Licença_à_Palavra.mp3"}, {"title": "40 O Tempo em que o Cinema Botava Leão na Calçada Literalmente", "file": "cronicas/40_O_Tempo_em_que_o_Cinema_Botava_Leão_na_Calçada_Literalmente.mp3"}, {"title": "41 O Timaço da Floresta Entra em Campo", "file": "cronicas/41_O_Timaço_da_Floresta_Entra_em_Campo.mp3"}, {"title": "42 Para Que Serve um Museu", "file": "cronicas/42_Para_Que_Serve_um_Museu.mp3"}, {"title": "43 Para Que Servem Tantos Títulos", "file": "cronicas/43_Para_Que_Servem_Tantos_Títulos.mp3"}, {"title": "44 O Dia em que o Patrimônio Desceu do Pedestal", "file": "cronicas/44_O_Dia_em_que_o_Patrimônio_Desceu_do_Pedestal.mp3"}, {"title": "45 Rir É Coisa Séria", "file": "cronicas/45_Rir_É_Coisa_Séria.mp3"}, {"title": "46 Sacerdotes do Riso", "file": "cronicas/46_Sacerdotes_do_Riso.mp3"}, {"title": "47 São Aldir Blanc e o Milagre do Artista Equilibrista", "file": "cronicas/47_São_Aldir_Blanc_e_o_Milagre_do_Artista_Equilibrista.mp3"}, {"title": "48 Sobre O Autor", "file": "cronicas/48_Sobre_O_Autor.mp3"}];
+    const antologia = [{"title": "01 SINOPSE", "file": "antologia/01_SINOPSE.mp3"}, {"title": "02 AGRADECIMENTOS", "file": "antologia/02_AGRADECIMENTOS.mp3"}, {"title": "03 A FIBRA DE UMA MULHER", "file": "antologia/03_A_FIBRA_DE_UMA_MULHER.mp3"}, {"title": "04 A MISERICÓRDIA E A BONDADE DE DEUS", "file": "antologia/04_A_MISERICÓRDIA_E_A_BONDADE_DE_DEUS.mp3"}, {"title": "05 A NOIVA DO INFINITO", "file": "antologia/05_A_NOIVA_DO_INFINITO.mp3"}, {"title": "06 AH MARTA MARTA", "file": "antologia/06_AH_MARTA_MARTA.mp3"}, {"title": "07 INGENUIDADE E MUITO AMOR", "file": "antologia/07_INGENUIDADE_E_MUITO_AMOR.mp3"}, {"title": "08 O ANDARILHO", "file": "antologia/08_O_ANDARILHO.mp3"}, {"title": "09 O BARCO ÇAÍ", "file": "antologia/09_O_BARCO_ÇAÍ.mp3"}, {"title": "10 O TEMPO NÃO VOLTA", "file": "antologia/10_O_TEMPO_NÃO_VOLTA.mp3"}, {"title": "11 SERIA MEU ANJO DA GUARDA", "file": "antologia/11_SERIA_MEU_ANJO_DA_GUARDA.mp3"}, {"title": "12 A MORTE DE OSAMA BIN LADEN", "file": "antologia/12_A_MORTE_DE_OSAMA_BIN_LADEN.mp3"}, {"title": "13 DIA INTERNACIONAL DA MULHER", "file": "antologia/13_DIA_INTERNACIONAL_DA_MULHER.mp3"}, {"title": "14 ETERNAMENTE A PROCURAR", "file": "antologia/14_ETERNAMENTE_A_PROCURAR.mp3"}, {"title": "15 INCÊNDIO EM SANTOS", "file": "antologia/15_INCÊNDIO_EM_SANTOS.mp3"}, {"title": "16 O PRINCÍPIO DOS PRINCÍPIOS É O RESPEITO", "file": "antologia/16_O_PRINCÍPIO_DOS_PRINCÍPIOS_É_O_RESPEITO.mp3"}, {"title": "17 PASSAGEM", "file": "antologia/17_PASSAGEM.mp3"}, {"title": "18 TEMPO DO MATA BORRÃO", "file": "antologia/18_TEMPO_DO_MATA_BORRÃO.mp3"}, {"title": "19 A MORTE", "file": "antologia/19_A_MORTE.mp3"}, {"title": "20 APENAS OLHANDO", "file": "antologia/20_APENAS_OLHANDO.mp3"}, {"title": "21 BRASIL MEU BRASIL", "file": "antologia/21_BRASIL_MEU_BRASIL.mp3"}, {"title": "22 CAMINHANDO PELA VIDA", "file": "antologia/22_CAMINHANDO_PELA_VIDA.mp3"}, {"title": "23 CAMINHAR MUTANTE", "file": "antologia/23_CAMINHAR_MUTANTE.mp3"}, {"title": "24 CANÇÕES DO TEMPO", "file": "antologia/24_CANÇÕES_DO_TEMPO.mp3"}, {"title": "25 DISLEXIA", "file": "antologia/25_DISLEXIA.mp3"}, {"title": "26 E AGORA MULHER", "file": "antologia/26_E_AGORA_MULHER.mp3"}, {"title": "27 EPITÁFIO", "file": "antologia/27_EPITÁFIO.mp3"}, {"title": "28 EU AMAVA", "file": "antologia/28_EU_AMAVA.mp3"}, {"title": "29 SOLIDÃO", "file": "antologia/29_SOLIDÃO.mp3"}, {"title": "30 TÃO LEVE QUANTO OS PÁSSAROS", "file": "antologia/30_TÃO_LEVE_QUANTO_OS_PÁSSAROS.mp3"}, {"title": "31 VOCÊ NÃO EXISTE", "file": "antologia/31_VOCÊ_NÃO_EXISTE.mp3"}, {"title": "32 BIOGRAFIA", "file": "antologia/32_BIOGRAFIA.mp3"}];
+
+    const player = document.getElementById('audio-player');
+    const titleDisplay = document.getElementById('now-playing');
+
+    function montarLista(items, elementId) {
+        const ul = document.getElementById(elementId);
+        items.forEach(item => {
+            const li = document.createElement('li');
+            li.textContent = item.title;
+            li.onclick = () => {
+                document.querySelectorAll('ul.playlist li').forEach(el => el.classList.remove('active'));
+                li.classList.add('active');
+                titleDisplay.textContent = item.title;
+                player.src = item.file;
+                player.play();
+            };
+            ul.appendChild(li);
+        });
+    }
+
+    montarLista(cronicas, 'list-cronicas');
+    montarLista(antologia, 'list-antologia');
+</script>
+
+</body>
+</html>
