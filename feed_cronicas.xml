@@ -2,6 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>101 Crônicas De Serra Negra - Volume II</title>
+    <itunes:new-feed-url>https://anchor.fm/s/119dba03c/podcast/rss</itunes:new-feed-url>
     <link>https://sociedadedasartes.github.io/audiobooks</link>
     <language>pt-br</language>
     <copyright>© 2026 Henrique Vieira Filho</copyright>
